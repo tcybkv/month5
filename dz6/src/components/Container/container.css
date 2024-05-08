@@ -1,0 +1,17 @@
+.largeContainer {
+  max-width: 1276px;
+}
+
+.midContainer {
+  max-width: 1044px;
+}
+
+.smallContainer {
+  max-width: 950px;
+}
+
+.largeContainer,
+.midContainer,
+.smallContainer {
+  margin: 0 auto;
+}
